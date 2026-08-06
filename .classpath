@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="lib/activation-1.1.1.jar"/>
-	<classpathentry kind="lib" path="lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/MyProjects/VehicleRentalSystem/lib/activation-1.1.1 (1).jar.zip"/>
+	<classpathentry kind="lib" path="D:/MyProjects/VehicleRentalSystem/lib/javax.mail-1.6.2 (1).jar.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
