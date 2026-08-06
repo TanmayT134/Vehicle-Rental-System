@@ -1,4 +1,4 @@
-package com.linkcode.vehicleRentalSystem;
+package com.linkcode.VehicleRentalSystem;
 
 public class Vehicle {
 	private String vehicleId;
